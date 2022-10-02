@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc41ebc2-2c15-4030-8f19-c441fe226233" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1flxHDZeAcgcz5BzUy1uZ5HydZm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW5_3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HW5_3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Total_HWTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Total_HWTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Total_HWTest.smallestValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Total_HWTest" />
+      <option name="METHOD_NAME" value="smallestValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Total_HWTest" />
+        <item itemvalue="JUnit.Total_HWTest.smallestValue" />
+        <item itemvalue="JUnit.HW5_3Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc41ebc2-2c15-4030-8f19-c441fe226233" name="Default Changelist" comment="" />
+      <created>1596806391325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596806391325</updated>
+      <workItem from="1596806397210" duration="2629000" />
+      <workItem from="1596830922377" duration="1029000" />
+      <workItem from="1596879021316" duration="8000" />
+      <workItem from="1596879100628" duration="47000" />
+      <workItem from="1596879210925" duration="196000" />
+      <workItem from="1596879476838" duration="322000" />
+      <workItem from="1596882915149" duration="233000" />
+      <workItem from="1596883286950" duration="160000" />
+      <workItem from="1596883479302" duration="73000" />
+      <workItem from="1596883584687" duration="128000" />
+      <workItem from="1596883746258" duration="210000" />
+      <workItem from="1596884568915" duration="109000" />
+      <workItem from="1596884715192" duration="68000" />
+      <workItem from="1596884896996" duration="95000" />
+      <workItem from="1596885026937" duration="63000" />
+      <workItem from="1596885122160" duration="662000" />
+      <workItem from="1596890372852" duration="20107000" />
+      <workItem from="1597131200716" duration="13008000" />
+      <workItem from="1597252391881" duration="5346000" />
+      <workItem from="1598241931988" duration="668000" />
+      <workItem from="1598242960843" duration="9199000" />
+      <workItem from="1598317937280" duration="15514000" />
+      <workItem from="1598407302057" duration="5457000" />
+      <workItem from="1598483965148" duration="422000" />
+      <workItem from="1602454225246" duration="1157000" />
+      <workItem from="1602505123792" duration="2594000" />
+      <workItem from="1602509625766" duration="3491000" />
+      <workItem from="1602618562718" duration="1868000" />
+      <workItem from="1602880948988" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Updates" timestamp="1596882472039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Updates/0.0.1366.728@0.0.1366.728" timestamp="1596882472039" />
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596989332114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596989332114" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596998124249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596998124249" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602622122309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602622122309" />
+    <state width="1323" height="83" key="GridCell.Tab.0.bottom" timestamp="1602508617099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="83" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602508617099" />
+    <state width="1323" height="83" key="GridCell.Tab.0.center" timestamp="1602508617098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="83" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602508617098" />
+    <state width="1323" height="83" key="GridCell.Tab.0.left" timestamp="1602508617098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="83" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602508617098" />
+    <state width="1323" height="83" key="GridCell.Tab.0.right" timestamp="1602508617099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="83" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602508617099" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1598481257909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598481257909" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1598481257909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598481257909" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1598481257908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598481257908" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1598481257909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598481257909" />
+    <state x="313" y="216" key="Performance.Activity.Monitor" timestamp="1596882230977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="216" key="Performance.Activity.Monitor/0.0.1366.728@0.0.1366.728" timestamp="1596882230977" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1598242327805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598242327805" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602880947222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602880947222" />
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596988878551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1596988878551" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597150374111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1597150374111" />
+    <state x="65" y="0" key="new project wizard" timestamp="1602622136158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602622136158" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598319476347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598319476347" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597142320196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597142320196" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/exercise$Total_HWTest_smallestValue.ic" NAME="Total_HWTest.smallestValue Coverage Results" MODIFIED="1597150671758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>

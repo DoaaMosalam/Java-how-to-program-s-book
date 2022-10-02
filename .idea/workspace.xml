@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45f95526-d15b-4b6a-8d2e-d5c0247fc32e" name="Default Changelist" comment="solve problem OOP from Java how to program's book" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
+  <component name="ProjectId" id="2CJ9ANpGp5tcD67eVvou0pIE2zb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.10695189" />
+    <property name="project.structure.side.proportion" value="0.09881425" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f95526-d15b-4b6a-8d2e-d5c0247fc32e" name="Default Changelist" comment="" />
+      <created>1658509678025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658509678025</updated>
+      <workItem from="1658509682510" duration="418000" />
+      <workItem from="1658508010349" duration="330000" />
+      <workItem from="1658511199932" duration="258000" />
+      <workItem from="1658511971676" duration="745000" />
+      <workItem from="1658514422282" duration="37000" />
+      <workItem from="1658514520148" duration="25000" />
+      <workItem from="1658514567754" duration="239000" />
+      <workItem from="1659988343581" duration="222000" />
+      <workItem from="1662776645700" duration="1629000" />
+      <workItem from="1662869296122" duration="180000" />
+      <workItem from="1662869705108" duration="148000" />
+      <workItem from="1664737083057" duration="728000" />
+    </task>
+    <task id="LOCAL-00001" summary="Java how to program 9th">
+      <created>1662777894286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662777894286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java how to program 9th">
+      <created>1662778275816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662778275816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java how to program 9th" />
+    <MESSAGE value="solve problem OOP from Java how to program's book" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve problem OOP from Java how to program's book" />
+  </component>
+</project>

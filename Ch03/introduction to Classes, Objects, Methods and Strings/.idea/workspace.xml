@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d165403e-8499-49d3-b966-0a88bab26a4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dUvwcHJABg7MHQm5cwADk75Gd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Ch04/Control Statements Part 1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.145977" />
+  </component>
+  <component name="RunManager" selected="Application.GradeBookTest">
+    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GradeBookTest" />
+      <module name="Ch03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GradeBookTest" />
+      <module name="Ch03" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GradeBookTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d165403e-8499-49d3-b966-0a88bab26a4f" name="Default Changelist" comment="" />
+      <created>1592492725772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592492725772</updated>
+      <workItem from="1592493182437" duration="5709000" />
+      <workItem from="1592668407594" duration="9359000" />
+      <workItem from="1592765081018" duration="44000" />
+      <workItem from="1592765169301" duration="2802000" />
+      <workItem from="1592900734374" duration="610000" />
+      <workItem from="1593017953741" duration="17424000" />
+      <workItem from="1593049499446" duration="504000" />
+      <workItem from="1593203257205" duration="7052000" />
+      <workItem from="1593226762831" duration="57000" />
+      <workItem from="1593233424960" duration="15000" />
+      <workItem from="1593283799047" duration="3526000" />
+      <workItem from="1593304751974" duration="1314000" />
+      <workItem from="1593373537020" duration="1042000" />
+      <workItem from="1593454556117" duration="14892000" />
+      <workItem from="1593474034776" duration="203000" />
+      <workItem from="1593830233690" duration="3674000" />
+      <workItem from="1593936881677" duration="2691000" />
+      <workItem from="1594177813536" duration="62000" />
+      <workItem from="1594397975407" duration="1416000" />
+      <workItem from="1596411553983" duration="53000" />
+      <workItem from="1596481209837" duration="1379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1593457609408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593457609408" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593040725134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593040725134" />
+    <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1596481393384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596481393384" />
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom" timestamp="1593942621471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593942621471" />
+    <state width="1323" height="273" key="GridCell.Tab.0.center" timestamp="1593942621470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593942621470" />
+    <state width="1323" height="273" key="GridCell.Tab.0.left" timestamp="1593942621470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593942621470" />
+    <state width="1323" height="273" key="GridCell.Tab.0.right" timestamp="1593942621471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593942621471" />
+    <state x="498" y="298" key="ReplaceDuplicatesPrompt" timestamp="1593039199849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="298" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1593039199849" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592609161908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592609161908" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593831031894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593831031894" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593049633180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1593049633180" />
+    <state x="413" y="119" width="540" height="496" key="extract.method.dialog" timestamp="1593039195370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" width="540" height="496" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593039195370" />
+    <state x="65" y="0" key="new project wizard" timestamp="1593932280446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593932280446" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1593039403022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1593039403022" />
+  </component>
+</project>
